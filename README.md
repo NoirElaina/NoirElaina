@@ -1,16 +1,17 @@
-## Hi there 👋
+# 2839448514
 
-<!--
-**2839448514/2839448514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust / Tauri / AI Agent Developer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=rust,tauri,vue,ts,python,cpp,unity"/>
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=2839448514&show_icons=true&theme=tokyonight)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2839448514&layout=compact&theme=tokyonight)
+
+## Activity Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=2839448514&theme=tokyo-night)
